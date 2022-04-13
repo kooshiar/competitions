@@ -23,3 +23,6 @@ sorted by the `crawled_time` field.
 To see an example, visit [here](https://www.pinterest.com/cabiclothing/handbags/) and scroll to the end of the page. Notice how more items are loaded automatically.
 - **Mobile Web:** Make sure your page works and looks good on popular mobile browsers.
 - **Client-side Search:** Add a serach feature that filters items based on data in the `description` field of each item. Search only needs to work on the items loaded so far.
+
+### Delivery
+- Please message us in [our Discord](https://discord.gg/PVPSj3CJ) with the URL.

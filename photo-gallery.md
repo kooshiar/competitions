@@ -3,7 +3,7 @@
 Build a [Pinterest style](https://www.pinterest.com/cabiclothing/handbags/)
 web page that displays information from the following API endpoint.
 
-    http://xoosha.com/ws/1/test.php?offset=20
+    https://xoosha.com/ws/1/test.php?offset=20
 
 The endpoint accepts an `offset` url parameter and  returns a list of items
 sorted by the `crawled_time` field.
